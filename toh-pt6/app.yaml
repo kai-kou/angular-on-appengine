@@ -1,0 +1,6 @@
+runtime: php
+env: flex
+service: kai-angular
+
+runtime_config:
+  document_root: dist
